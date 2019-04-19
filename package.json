@@ -1,0 +1,21 @@
+{
+  "name": "language-extension-br",
+  "displayName": "Portuguese (Brazil)",
+  "version": "1.0",
+  "author": {
+    "name": "Jordan Rocha",
+    "email": "rochajg0@gmail.com",
+    "url": "http://instagram.com/rochajg"
+  },
+  "publisher": "aseprite_br",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "brazilian-portuguese",
+      "path": "./br.ini"
+    }]
+  }
+}
