@@ -14,7 +14,7 @@
   ],
   "contributes": {
     "languages": [{
-      "id": "brazilian-portuguese",
+      "id": "brazilian",
       "path": "./br.ini"
     }]
   }
